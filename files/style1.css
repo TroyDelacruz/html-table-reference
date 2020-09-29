@@ -1,0 +1,32 @@
+body {
+	font-family: Helvetica;
+	background-color: silver;
+}
+
+table {
+	border: 1px solid darkblue;
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+}
+
+thead {
+	background-color: black;
+	color: purple;
+}
+
+td {
+	border-top: 1px solid black;
+}
